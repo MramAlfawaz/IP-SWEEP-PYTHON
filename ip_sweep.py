@@ -2,7 +2,7 @@
 
 import os   
 
-#replace ip address with your ip
+#replace ips address with your ip
 ip = "0"
 ips = "10.11.1." + str(ip)
 
